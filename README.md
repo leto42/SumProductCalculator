@@ -7,4 +7,4 @@ and multiplication while maintaining the precision of the number.
 
 To run this program:
    1) make run.o
-   2) run.o filename
+   2) ./run.o filename
